@@ -19,8 +19,7 @@
 - Stable Diffusion + LoRA 기반 캐릭터 생성 툴화
 - 위치기반, STT & TTS 기반 명함 데이터 통합 관리 서비스
 - Azure CV 로 과일 분류 및 이미지 감지
-- 예비귀농인을 위한 XGboost, lstm 기반의 맞춤형 작물 추천 서비스
-
+- XGboost, lstm, openai기반의 예비귀농인 가이드 서비스
 <hr>
 
 ## 기술 스택 & 툴
