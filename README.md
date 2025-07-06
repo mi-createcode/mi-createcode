@@ -1,6 +1,5 @@
-# 윤슬 - AI & 데이터 분석 포트폴리오
-
-**AI와 데이터 분석에 열정을 가진 신입 AI 인재입니다.**  
+# Yeonmi LEE 
+**AI Engineer**  
 파이썬과 Azure ML Studio를 활용한 프로젝트 경험과 대기업 인턴십을 바탕으로, 실제 산업에 기여할 수 있는 AI 전문가로 성장 중입니다.
 
 
@@ -11,10 +10,23 @@
 - LG전자 인턴 — 팀장 역할 수행, 팀 생산성과 효율성 향상 주도
 - Microsoft AI Engineer 특화 과정 수강 중
 
+<hr>
 
 ## 기술 스택 & 툴
 
 <table>
+    <tr>
+    <th>AI & Data Analysis</th>
+    <td>
+      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas" />
+      <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy" />
+      <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white" alt="Matplotlib" />
+      <img src="https://img.shields.io/badge/Seaborn-2E5EAA?style=flat&logo=seaborn&logoColor=white" alt="Seaborn" />
+      <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" alt="Jupyter" />
+      <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white" alt="Google Colab" />
+    </td>
+  </tr>
   <tr>
     <th>Programming Languages</th>
     <td>
@@ -51,18 +63,7 @@
       <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma" />
     </td>
   </tr>
-  <tr>
-    <th>AI & Data Analysis</th>
-    <td>
-      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
-      <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas" />
-      <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy" />
-      <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white" alt="Matplotlib" />
-      <img src="https://img.shields.io/badge/Seaborn-2E5EAA?style=flat&logo=seaborn&logoColor=white" alt="Seaborn" />
-      <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" alt="Jupyter" />
-      <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white" alt="Google Colab" />
-    </td>
-  </tr>
+
 </table>
 
 
