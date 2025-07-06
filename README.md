@@ -61,5 +61,13 @@
 
 
 ## 연락처
-- 이메일: yunsul@example.com
-- GitHub: [https://github.com/mi-createcode](https://github.com/mi-createcode)
+
+<p align="center">
+  <a href="mailto:yunsul@example.com" title="Email">
+    <img src="https://img.icons8.com/ios-filled/30/000000/email-open.png" alt="Email"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/윤슬계정" title="GitHub">
+    <img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" alt="GitHub"/>
+  </a>
+</p>
