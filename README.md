@@ -1,4 +1,5 @@
 # Yeonmi Lee
+
 ## AI Engineer
 파이썬과 Azure ML Studio를 활용한 프로젝트 경험과 대기업 인턴십을 바탕으로, 실제 산업에 기여할 수 있는 AI 전문가로 성장 중입니다.
 
