@@ -13,12 +13,26 @@
 
 <hr>
 
-## 프로젝트
+## 프로젝트 (Project)
 - 경제뉴스 텍스트 마이닝 - 코스피·코스닥 TOP100 기업 언급 분석
 - Stable Diffusion + LoRA 기반 캐릭터 생성 툴화
 - 위치기반, STT & TTS 기반 명함 데이터 통합 관리 서비스
 - Azure CV 로 과일 분류 및 이미지 감지
 - XGboost, lstm, openai기반의 예비귀농인 가이드 서비스
+<hr>
+
+<hr>
+
+## 주요 역량 (Strength)
+- Azure ML Studio, Azure AI Studio, Custom Vision, Speech 등을 활용해 이미지 및 음성 기반 AI 모델을 클라우드 환경에서 개발하고 최적화한 경험
+
+- XGBoost, Scikit-learn, Pandas 등을 이용해 FarmPilot 서비스에 추천 시스템을 적용하며 머신러닝 모델을 실전 문제 해결에 활용한 경험
+
+- LSTM, RAG, FAISS, LangChain 등 다양한 AI 기술을 통합하여 사용자 흐름에 맞춘 인터페이스 중심의 AI 서비스 설계 및 구현 역량
+
+- Azure App Service와 WordPress(LAAS)를 기반으로 웹 서비스를 구축하고 프론트–백엔드 연동 및 AI 모델의 실제 서비스화 경험 보유
+
+- Claude, Runway, Heygen, Rytr, Napkin 등 생성형 AI 툴을 활용해 콘텐츠 기획, 텍스트 작성, 영상 제작 등의 업무를 자동화한 실무 경험
 <hr>
 
 ## 기술 스택 & 툴
